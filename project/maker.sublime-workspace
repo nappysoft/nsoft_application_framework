@@ -1,0 +1,814 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strin",
+				"stringify"
+			],
+			[
+				"check",
+				"checkConfigVersion"
+			],
+			[
+				"progre",
+				"progress_background"
+			],
+			[
+				"ondra",
+				"onreadystatechange"
+			],
+			[
+				"loa",
+				"loader_screen"
+			],
+			[
+				"setPro",
+				"setProgressAmount"
+			],
+			[
+				"pro",
+				"progressLength"
+			],
+			[
+				"progr",
+				"progress_bar"
+			],
+			[
+				"ro",
+				"rotation"
+			],
+			[
+				"w",
+				"wait"
+			],
+			[
+				"wait",
+				"waitDelay"
+			],
+			[
+				"conte",
+				"contextProps"
+			],
+			[
+				"text",
+				"textObj"
+			],
+			[
+				"remove",
+				"removeEventHandler"
+			],
+			[
+				"ser",
+				"serialnumbers"
+			],
+			[
+				"se",
+				"serialnumbers"
+			],
+			[
+				"setupCan",
+				"setupCanvasBuffer"
+			],
+			[
+				"setup",
+				"setupLocalStorage"
+			],
+			[
+				"re",
+				"requestAnimationFrame"
+			],
+			[
+				"status",
+				"statusObj"
+			],
+			[
+				"sta",
+				"statusCode"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"m",
+				"main-test"
+			],
+			[
+				"Wid",
+				"WidgetManager"
+			],
+			[
+				"getWi",
+				"getWidgetsByName"
+			],
+			[
+				"make",
+				"makeUpdate"
+			],
+			[
+				"tpe",
+				"typeof"
+			],
+			[
+				"request",
+				"requestType"
+			],
+			[
+				"proce",
+				"processedCount"
+			],
+			[
+				"loadin",
+				"loadingLimit"
+			],
+			[
+				"priori",
+				"prioritySort"
+			],
+			[
+				"con",
+				"configData"
+			],
+			[
+				"input",
+				"input"
+			],
+			[
+				"pkt",
+				"getTilePacket"
+			],
+			[
+				"match",
+				"matchCards"
+			],
+			[
+				"get",
+				"getCard"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"ca",
+				"cards"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/js/loader.js",
+			"settings":
+			{
+				"buffer_size": 212,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/js/maker.js",
+			"settings":
+			{
+				"buffer_size": 31505,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/js/maker.conf.js",
+			"settings":
+			{
+				"buffer_size": 6498,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/js/maker.conf.json",
+			"settings":
+			{
+				"buffer_size": 2405,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/main.html",
+			"settings":
+			{
+				"buffer_size": 955,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Java/Ant.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ma",
+				"Snippet: make into var NAME = functions NAME "
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Snippet: Function"
+			]
+		],
+		"width": 456.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+			"import urllib,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib.install_opener(urllib.build_opener(urllib.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllib,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllib,os; ",
+			"import urllib2",
+			"import urllib",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"sublime.save_settings()",
+			"sublime.save_settings",
+			"save_settings",
+			"dir(sublime)",
+			"import sublime;",
+			"dir(view.window)",
+			"print(view.id())",
+			"print(view.id)",
+			"dir(view.id)",
+			"dir(view.find)",
+			"view.find()",
+			"view.file_name()",
+			"view.file_name",
+			"dir(view)",
+			"view",
+			"['widget' +str(i) for i in range(1,11)]",
+			"[i for i in range(1,10)]",
+			"str(1)",
+			"view.run_command('prefixr')",
+			"self.view.insert(edit,0,[i for i in range(1,10)])",
+			"[i for i in range(1,10)]",
+			"view.run_command('prefixr')",
+			"view.run_command('Prefixr')",
+			"view.run_command('prefixr')",
+			"view.run_command('example')",
+			"view.run_command('myplugin')",
+			"view.run_command('example')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/js/lib/mouseBondage.js",
+		"/C/Users/michaells/Programming/JAVASCRIPT/html5/html5-mini-clock/nsoft.html5-mini-clock.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/mouse-tests/nsoft.tests.rendering-hittest-mouse.js",
+		"/C/Users/michaells/Programming/JAVASCRIPT/components/html5/mini-clock/html5-mini-clock.js",
+		"/C/Users/michaells/Programming/JAVASCRIPT/utils.js",
+		"/C/Users/michaells/Programming/JAVASCRIPT/the-pit/nsoft.core.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/js/maker.conf.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/js/game/space_destroyer.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/js/main.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/js/maker.loader_screen.old.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/playing-around.html",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/pathfinder.html",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/maker.loader_screen.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/maker.image_preloader.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/maker.loader_screen.old.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/lib/utils.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/test/js/main-test.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/data/net_check_file.txt",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/data/application_uri_paths.conf",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/game/game.conf.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/data/game.conf",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/lib/mouseBondage.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/lib/keyboardBondage.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/game.js",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/objects/Widget.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/objects/WidgetManager.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/lib/nsoft.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/mouse-tests/space-destroyer.html",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/objects/mouseBondage.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/objects/keyboardBondage.js",
+		"/C/Users/michaells/web-development/nappysoft-com/current-work/webapps/html5/playing-around/keyboardBondage.js",
+		"/C/Users/michaells/Programming/JAVASCRIPT/html5/playing-around/js/canvas-utils.js",
+		"/C/Users/michaells/Programming/JAVASCRIPT/html5/playing-around/js/nsoft.colorpicker.js",
+		"/C/Users/michaells/Programming/JAVASCRIPT/html5/playing-around/js/raf.js",
+		"/C/Users/michaells/Programming/JAVASCRIPT/html5/playing-around/js/mouseBondage.js",
+		"/C/Users/michaells/Programming/JAVASCRIPT/html5/playing-around/js/keyboardBondage.js",
+		"/C/Users/michaells/web-development/nappysoft-com/current-work/webapps/html5/playing-around/nsoft.the-pit.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/main.conf",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/data/main.conf",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/lib/modernizr.modified.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/gametest/js/BJ.js",
+		"/C/Users/michaells/Programming/JAVASCRIPT/chrome/version/strings.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/sphere/raf.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/modernizr/js/lib/modernizr.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/gametest/js/NSOFT.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/widget/js/main-test.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/widget/js/main.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/sphere/sphere.loader.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/xhr/main.conf.json",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/widget/playing-with-functions.html",
+		"/C/Users/michaells/Programming/HTML/HTML5/sprites/raf.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/sphere/sphere.html",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/widget/project.html",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/widget/scripts/main.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/widget/scripts/test.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/Widget.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/WidgetManager.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/playing-with-functions.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/playing-with-functions.html",
+		"/C/Users/michaells/Documents/GitHub/Modernizr/feature-detects/canvas/todataurl.js",
+		"/C/Users/michaells/Documents/GitHub/Modernizr/feature-detects/json.js",
+		"/C/Users/michaells/Documents/GitHub/Modernizr/src/Modernizr.js",
+		"/C/Users/michaells/Documents/GitHub/Modernizr/test/r.js",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/switchstatment.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/selectiontonamedvarfunction.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/selectiontofunction.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/publishselectedvariables.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/objectliteral.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/notequalidentity.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/throw.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/instanceof.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/foritemf.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/foritemb.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/consolelogwith_filename_linenumber_message.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/equalstrippleidentity.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/consolelogselection.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/throwc.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/consolelog.sublime-snippet",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/foritem.xml",
+		"/C/Users/michaells/AppData/Roaming/Sublime Text 3/Packages/User/autofilename.py",
+		"/C/Program Files/Sublime Text 3/select.pyd",
+		"/C/Program Files/Sublime Text 3/sublime.py",
+		"/C/Program Files/Sublime Text 3/sublime_plugin.py",
+		"/C/Program Files/Sublime Text 2/Pristine Packages/User.sublime-package",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/xhr/js/assetLoaderHandlers.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/xhr/js/xhr.loader.js.old.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/sphere/sphere.animations.json",
+		"/C/Users/michaells/Programming/learning/books/wrox/ajaxPro2/ProAjax2ePHP/ProAjax2ePHP/PHP/Chapter 2 - Ajax Basics/XHRExamples/GetCustomerData.php",
+		"/C/Users/michaells/Programming/PHP/the-pit/main.php",
+		"/C/Users/michaells/Programming/PHP/the-pit/page-navigator.php",
+		"/C/Users/michaells/Programming/learning/books/wrox/ajaxPro2/ProAjax2eJSP/JSP/Chapter 5 - Request Management/RequestManager.js",
+		"/C/Users/michaells/Programming/learning/books/wrox/ajaxPro2/ProAjax2eJSP/JSP/Chapter 5 - Request Management/PriorityQueue.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/sphere/sphere.js",
+		"/C/Users/michaells/Programming/learning/books/wrox/ajaxPro2/ProAjax2eJSP/JSP/Chapter 5 - Request Management/RequestManagerExample.htm",
+		"/C/Users/michaells/Programming/learning/books/wrox/ajaxPro2/ProAjax2eJSP/JSP/Chapter 5 - Request Management/RequestManagerExample.js",
+		"/C/Users/michaells/Programming/learning/books/wrox/ajaxPro2/ProAjax2eJSP/JSP/Chapter 8 - JSON/General JSON Examples/json.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/xhr/js/zxml.js",
+		"/C/Users/michaells/Programming/HTML/ubuntu-html-code/html/js/rss.js",
+		"/C/Users/michaells/Programming/HTML/ubuntu-html-code/html/js/html5.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/sphere/sphere.json",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/sphere/sphere.anim.old.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/sphere/sphere.data.js",
+		"/C/Users/michaells/Programming/HTML/HTML5/the-pit/sphere/shpere.animations.json",
+		"/C/Program Files (x86)/World of Warcraft Public Test/WTF/Config.wtf",
+		"/C/Users/michaells/temp/cs255-tilesets.js",
+		"/C/Users/michaells/temp/cs255-tilepacket.js",
+		"/C/Users/michaells/temp/cs255-map.json",
+		"/C/Users/michaells/Programming/JAVASCRIPT/test.js",
+		"/C/Users/michaells/Programming/JAVASCRIPT/test.html",
+		"/C/Users/michaells/Dropbox/Work/Edu/udacity.com/cs253/unit1/unit2.html",
+		"/C/SERVER/HTTP/apache/htdocs/nappysoft-com/webapps/html5/memory-game/scripts/board.js",
+		"/C/SERVER/HTTP/apache/htdocs/nappysoft-com/webapps/html5/memory-game/scripts/loader.js",
+		"/C/SERVER/HTTP/apache/htdocs/nappysoft-com/webapps/html5/memory-game/scripts/game.js",
+		"/C/SERVER/HTTP/apache/htdocs/nappysoft-com/webapps/html5/memory-game/memory-game.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\michaells\\AppData\\Roaming\\Sublime Text 3\\Packages\\User"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"that",
+			"maker",
+			"this",
+			"loaderTotalProgress",
+			"loaderProgress",
+			"loaderScreen",
+			"^(.+)=(.+)$",
+			"loaderObject",
+			"onFinished",
+			"timeoutID",
+			"this",
+			": f",
+			"},",
+			"this.",
+			"applicationObj",
+			":",
+			"this.object",
+			"Value",
+			"that",
+			"this",
+			"updateList",
+			"that",
+			",",
+			"height",
+			"frame",
+			"100",
+			"height",
+			"p",
+			"s",
+			"width",
+			"79",
+			"100",
+			"0",
+			"100",
+			"0",
+			"application",
+			"Application",
+			"application",
+			"^#(.+)$",
+			"^(.+)=(.+)$",
+			"^[^# ]?(.+)=(.+)$",
+			"^[^#]*(.+)=(.+)$",
+			"^#(.+)$",
+			"^[^#](.+)=(.+)$",
+			"^(.+)=(.+)$",
+			"=",
+			"btx",
+			"application",
+			";",
+			"=",
+			"^(.+)=(.+)$",
+			"\"",
+			" :",
+			"'",
+			"bufferHeight",
+			"\"([0-9]+)\"",
+			"\"true\"",
+			"\"false\"",
+			"(\".+{1}\"),",
+			"(\\\"[false|true]{1}\\\")",
+			"^(.+)=(.+)$",
+			"^[^#]*(.+)=[ ]*(.*)$",
+			"^[^\\#]*?(.+)=(.+)$",
+			"serials",
+			"create_rocks",
+			"bullet",
+			"sprite",
+			"yes",
+			"path",
+			"i",
+			"config",
+			"^(.+)=(.+)$",
+			"_dir",
+			"=",
+			"^(.+)=(.+)$",
+			"=",
+			"timestamp",
+			"passed",
+			"networkState",
+			"load",
+			"setRequestHeader",
+			"browser_no_support_XMLHttpRequest",
+			"browser_no_support_feature",
+			"^([a-zA-Z0-9_]+):",
+			"^([a-zA-Z0-9_]+)[^:]",
+			"([a-zA-Z0-9_]+):",
+			"([a-zA-Z0-9_]+)=(.+?)$",
+			"browser_no_support_webWorkers=The browser does not support multi-threading with webWorkers.",
+			"^([a-zA-Z_]+)=(.+)$",
+			"([a-zA-Z_]+)=(.+)$",
+			"objects",
+			":",
+			"=",
+			"Listener",
+			"this",
+			"this.",
+			";",
+			"obj.",
+			"NSOFT",
+			"urllib2",
+			",",
+			"<scope>source.javascript</scope>",
+			"</tabTrigger>",
+			"console",
+			"widgetTypes",
+			"function ([a-zA-Z]+) \\(\\) ",
+			"function ([a-zA-Z]+)",
+			"widget",
+			"events",
+			"function ([a-zA-z]+) \\((.*)\\)",
+			"function ([a-zA-z]+) \\(.*\\)",
+			"function ([a-zA-z]+) \\((.+)\\)",
+			"function ([a-zA-z]+) \\(.+\\)",
+			"doUpdate",
+			"takePoll",
+			"info",
+			"this",
+			"var ([a-zA-Z]+) =",
+			"this",
+			",",
+			":",
+			"my",
+			"takePoll",
+			"this.",
+			"this",
+			"backwards",
+			"this.widgets[index]",
+			"this."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"\\1\" : \"\\2\",",
+			"//\\1",
+			"\"\\1\" : \"\\2\",",
+			"//\\1",
+			"\"\\1\" : \"\\2\",",
+			"\"\\1\" : \\2,",
+			"\\1",
+			"\"\\1\" : \"\\2\",",
+			"\"\\1\" :",
+			"\"\\1\" ",
+			"\"\\1\" : \"\\2\",",
+			",",
+			"\\n",
+			"",
+			"</tabTrigger>\n<scope>source.javascript</scope>",
+			"var \\1 = function \\1 () ",
+			"var \\1 = function \\1",
+			"var \\1 = function \\1 (\\2)",
+			"=",
+			"\\1 :function(\\2)",
+			"\\1 :function (\\2)",
+			"\\1 : function (\\2)",
+			"i",
+			"cts",
+			"cards"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/js/loader.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/js/maker.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24943,
+								24943
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 15140.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/js/maker.conf.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1000,
+								1000
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/js/maker.conf.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2405,
+								2405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/C/Users/michaells/Programming/HTML/HTML5/the-pit/maker/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.513921113689,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"project": "maker.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
